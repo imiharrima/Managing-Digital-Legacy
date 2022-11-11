@@ -1,13 +1,11 @@
-Welcome to Lumache's documentation!
-===================================
+Managing Digital Legacy (Crypto Edition)!
+=========================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+I have been in crypto for a couple of years and for the longest time, I have not seen any company (or even anyone) that cares about **what will happen to their hard-earned crypto** when they're six feet under.
+- can you request custodial wallets/exchanges to give your account access to your next-of-kin before you die?
+- how can you pass your seed/secure phrases to your wife/husband/child/family when you are no longer alive?
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+I envision this document to be **THE** reference document for managing your digital legacy. Any information shared is NFA and searchable in the Internet (unless mentioned). 
 
 .. note::
 
@@ -20,3 +18,4 @@ Contents
 
    usage
    api
+   Metamask FAQ
